@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1ce8a9c.chunk.css",
-    "main.js": "/static/js/main.a972fdf8.chunk.js",
-    "main.js.map": "/static/js/main.a972fdf8.chunk.js.map",
+    "main.css": "/static/css/main.c755de47.chunk.css",
+    "main.js": "/static/js/main.7f8318e0.chunk.js",
+    "main.js.map": "/static/js/main.7f8318e0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.324f0ac0.js",
     "runtime-main.js.map": "/static/js/runtime-main.324f0ac0.js.map",
-    "static/js/2.ecb694be.chunk.js": "/static/js/2.ecb694be.chunk.js",
-    "static/js/2.ecb694be.chunk.js.map": "/static/js/2.ecb694be.chunk.js.map",
+    "static/js/2.be5ffaee.chunk.js": "/static/js/2.be5ffaee.chunk.js",
+    "static/js/2.be5ffaee.chunk.js.map": "/static/js/2.be5ffaee.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.50cfb0bfeda6afe62d5434b0e5602a07.js": "/precache-manifest.50cfb0bfeda6afe62d5434b0e5602a07.js",
+    "precache-manifest.e5937d2c41ff4fc460a4a78e23bf477f.js": "/precache-manifest.e5937d2c41ff4fc460a4a78e23bf477f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.b1ce8a9c.chunk.css.map": "/static/css/main.b1ce8a9c.chunk.css.map",
-    "static/js/2.ecb694be.chunk.js.LICENSE.txt": "/static/js/2.ecb694be.chunk.js.LICENSE.txt"
+    "static/css/main.c755de47.chunk.css.map": "/static/css/main.c755de47.chunk.css.map",
+    "static/js/2.be5ffaee.chunk.js.LICENSE.txt": "/static/js/2.be5ffaee.chunk.js.LICENSE.txt",
+    "static/media/GameComp.css": "/static/media/bgImg.b7a161d3.png",
+    "static/media/bgSound.mp3": "/static/media/bgSound.4af35b95.mp3",
+    "static/media/bullDogImg.png": "/static/media/bullDogImg.fbba2278.png",
+    "static/media/failSound.mp3": "/static/media/failSound.853245ad.mp3",
+    "static/media/homepageBgMusic.mp3": "/static/media/homepageBgMusic.e175412e.mp3",
+    "static/media/successSound.mp3": "/static/media/successSound.cbcd6ccc.mp3",
+    "static/media/welshCorgiImg.png": "/static/media/welshCorgiImg.eb8d645e.png",
+    "static/media/winSound.mp3": "/static/media/winSound.e0c7c75e.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.324f0ac0.js",
-    "static/js/2.ecb694be.chunk.js",
-    "static/css/main.b1ce8a9c.chunk.css",
-    "static/js/main.a972fdf8.chunk.js"
+    "static/js/2.be5ffaee.chunk.js",
+    "static/css/main.c755de47.chunk.css",
+    "static/js/main.7f8318e0.chunk.js"
   ]
 }
