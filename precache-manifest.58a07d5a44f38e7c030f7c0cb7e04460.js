@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ef85eaebcd243d4105766b8666ac00a",
+    "revision": "8bec7b6d98fca78f571689f85cf2dc81",
     "url": "/index.html"
   },
   {
-    "revision": "9a63f1daa5281377d680",
+    "revision": "75aeb0400951749aba42",
     "url": "/static/css/main.cf02721b.chunk.css"
   },
   {
-    "revision": "d3e9dd37230b67898f47",
-    "url": "/static/js/2.7bf07ca1.chunk.js"
+    "revision": "a08450c224ff3b9ea5fb",
+    "url": "/static/js/2.5b81008c.chunk.js"
   },
   {
     "revision": "8ebb70227fec3b61ad3af3d99ebe8940",
-    "url": "/static/js/2.7bf07ca1.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.5b81008c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a63f1daa5281377d680",
-    "url": "/static/js/main.f88b1d8a.chunk.js"
+    "revision": "75aeb0400951749aba42",
+    "url": "/static/js/main.eccd4c22.chunk.js"
   },
   {
     "revision": "fcb9ab19e74c9fc4d2ff",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e175412e95b9aeba27a71b47937e0fad",
     "url": "/static/media/homepageBgMusic.e175412e.mp3"
+  },
+  {
+    "revision": "d280923b2b78082a429a1ad104c7306a",
+    "url": "/static/media/lossSound.d280923b.wav"
   },
   {
     "revision": "cbcd6ccc3d2f7c8b6bc4bbece90d6019",
