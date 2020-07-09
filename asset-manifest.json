@@ -1,31 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.51fe1fe5.chunk.css",
-    "main.js": "/static/js/main.78d5de7e.chunk.js",
-    "main.js.map": "/static/js/main.78d5de7e.chunk.js.map",
+    "main.css": "/static/css/main.9c8b5911.chunk.css",
+    "main.js": "/static/js/main.21e3e65c.chunk.js",
+    "main.js.map": "/static/js/main.21e3e65c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.324f0ac0.js",
     "runtime-main.js.map": "/static/js/runtime-main.324f0ac0.js.map",
-    "static/js/2.1b165f21.chunk.js": "/static/js/2.1b165f21.chunk.js",
-    "static/js/2.1b165f21.chunk.js.map": "/static/js/2.1b165f21.chunk.js.map",
+    "static/js/2.2e030204.chunk.js": "/static/js/2.2e030204.chunk.js",
+    "static/js/2.2e030204.chunk.js.map": "/static/js/2.2e030204.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4b4294758ee541d0b8229276589953ac.js": "/precache-manifest.4b4294758ee541d0b8229276589953ac.js",
+    "precache-manifest.775e982b6c0602cc7e53c0bc2efac03f.js": "/precache-manifest.775e982b6c0602cc7e53c0bc2efac03f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.51fe1fe5.chunk.css.map": "/static/css/main.51fe1fe5.chunk.css.map",
-    "static/js/2.1b165f21.chunk.js.LICENSE.txt": "/static/js/2.1b165f21.chunk.js.LICENSE.txt",
+    "static/css/main.9c8b5911.chunk.css.map": "/static/css/main.9c8b5911.chunk.css.map",
+    "static/js/2.2e030204.chunk.js.LICENSE.txt": "/static/js/2.2e030204.chunk.js.LICENSE.txt",
     "static/media/GameComp.css": "/static/media/bgImg.b7a161d3.png",
     "static/media/bgSound.mp3": "/static/media/bgSound.4af35b95.mp3",
     "static/media/bullDogImg.png": "/static/media/bullDogImg.fbba2278.png",
     "static/media/failSound.mp3": "/static/media/failSound.853245ad.mp3",
+    "static/media/ResumeComp.css": "/static/media/youTube.1d54e5c2.png",
     "static/media/homepageBgMusic.mp3": "/static/media/homepageBgMusic.e175412e.mp3",
     "static/media/lossSound.wav": "/static/media/lossSound.d280923b.wav",
     "static/media/successSound.mp3": "/static/media/successSound.cbcd6ccc.mp3",
     "static/media/welshCorgiImg.png": "/static/media/welshCorgiImg.eb8d645e.png",
-    "static/media/winSound.mp3": "/static/media/winSound.e0c7c75e.mp3"
+    "static/media/winSound.mp3": "/static/media/winSound.e0c7c75e.mp3",
+    "static/media/youTubeMotion.mp4": "/static/media/youTubeMotion.31b3d6fd.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.324f0ac0.js",
-    "static/js/2.1b165f21.chunk.js",
-    "static/css/main.51fe1fe5.chunk.css",
-    "static/js/main.78d5de7e.chunk.js"
+    "static/js/2.2e030204.chunk.js",
+    "static/css/main.9c8b5911.chunk.css",
+    "static/js/main.21e3e65c.chunk.js"
   ]
 }
