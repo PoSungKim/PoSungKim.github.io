@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26e9b692ea0aa7ca86fd80e2decb1f1e",
+    "revision": "f511fb6cdfb4d2735e2a1767b827f805",
     "url": "/index.html"
   },
   {
-    "revision": "a92b223736ace03775cb",
-    "url": "/static/css/main.8083ab64.chunk.css"
+    "revision": "fd62af2f101fe2604ddd",
+    "url": "/static/css/main.66f46269.chunk.css"
   },
   {
-    "revision": "71a06decdf4383e5210f",
-    "url": "/static/js/2.9dd0f564.chunk.js"
+    "revision": "311c3f4bf54ee38578e7",
+    "url": "/static/js/2.d0e2259d.chunk.js"
   },
   {
     "revision": "8ebb70227fec3b61ad3af3d99ebe8940",
-    "url": "/static/js/2.9dd0f564.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.d0e2259d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a92b223736ace03775cb",
-    "url": "/static/js/main.fc5ab284.chunk.js"
+    "revision": "fd62af2f101fe2604ddd",
+    "url": "/static/js/main.5c43cf74.chunk.js"
   },
   {
     "revision": "fcb9ab19e74c9fc4d2ff",
@@ -30,6 +30,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4af35b95f4cde6e26d5cb53be97e538a",
     "url": "/static/media/bgSound.4af35b95.mp3"
+  },
+  {
+    "revision": "da04d528f130b5f639cc001cda112d08",
+    "url": "/static/media/blueCap.da04d528.png"
+  },
+  {
+    "revision": "299bcd43e3afacd7cb4fc4da562304a5",
+    "url": "/static/media/blueShorts.299bcd43.png"
+  },
+  {
+    "revision": "9e020b50c16d686e22c2689040144838",
+    "url": "/static/media/blueTShirt.9e020b50.png"
   },
   {
     "revision": "fbba2278b9179b7b165ee4a6d8e164b9",
@@ -50,6 +62,34 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d280923b2b78082a429a1ad104c7306a",
     "url": "/static/media/lossSound.d280923b.wav"
+  },
+  {
+    "revision": "841dccba3873c6b5cc884623e543d06f",
+    "url": "/static/media/pinkCap.841dccba.png"
+  },
+  {
+    "revision": "3b4acefc575120e6c9ffd6fc7f4b518a",
+    "url": "/static/media/pinkShorts.3b4acefc.png"
+  },
+  {
+    "revision": "8598d4c12b8f35945ef607680f6266bd",
+    "url": "/static/media/pinkTShirt.8598d4c1.png"
+  },
+  {
+    "revision": "bb76ab8e1e5868b50407559581985483",
+    "url": "/static/media/redCap.bb76ab8e.png"
+  },
+  {
+    "revision": "3352e9028170bf0007b30fab40a43e4b",
+    "url": "/static/media/redShorts.3352e902.png"
+  },
+  {
+    "revision": "43b29b6dd0990e4b9b24de544e61c391",
+    "url": "/static/media/redTShirt.43b29b6d.png"
+  },
+  {
+    "revision": "b69de54621f243028c05a1b3f2ee9a4e",
+    "url": "/static/media/shoppingMall.b69de546.png"
   },
   {
     "revision": "cbcd6ccc3d2f7c8b6bc4bbece90d6019",
