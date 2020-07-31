@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb053efd8088eff15b08fff795b2eabe",
+    "revision": "9812025f77548808f8769287dc31a2dc",
     "url": "/index.html"
   },
   {
-    "revision": "b8ba5999f78f92e6bfbb",
-    "url": "/static/css/main.8b41627b.chunk.css"
+    "revision": "4cdfbb74599aa3c0f946",
+    "url": "/static/css/main.5ede8108.chunk.css"
   },
   {
     "revision": "3c15bfd739fb2a5b61a5",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.1a7cbbd2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b8ba5999f78f92e6bfbb",
+    "revision": "4cdfbb74599aa3c0f946",
     "url": "/static/js/main.a4fe21ca.chunk.js"
   },
   {
@@ -86,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "43b29b6dd0990e4b9b24de544e61c391",
     "url": "/static/media/redTShirt.43b29b6d.png"
+  },
+  {
+    "revision": "3f2002713e7167e06ee6f332550af71a",
+    "url": "/static/media/shoppingMall.3f200271.png"
   },
   {
     "revision": "b69de54621f243028c05a1b3f2ee9a4e",
