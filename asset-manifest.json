@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.28a23b33.chunk.css",
-    "main.js": "/static/js/main.9fdab0eb.chunk.js",
-    "main.js.map": "/static/js/main.9fdab0eb.chunk.js.map",
+    "main.css": "/static/css/main.f93fe038.chunk.css",
+    "main.js": "/static/js/main.e494a37b.chunk.js",
+    "main.js.map": "/static/js/main.e494a37b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.324f0ac0.js",
     "runtime-main.js.map": "/static/js/runtime-main.324f0ac0.js.map",
     "static/js/2.ee99c39e.chunk.js": "/static/js/2.ee99c39e.chunk.js",
     "static/js/2.ee99c39e.chunk.js.map": "/static/js/2.ee99c39e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ff324915de1daa17c3596cb7c65e4692.js": "/precache-manifest.ff324915de1daa17c3596cb7c65e4692.js",
+    "precache-manifest.f8374b6bd4944fc3309cf25a6da03134.js": "/precache-manifest.f8374b6bd4944fc3309cf25a6da03134.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.28a23b33.chunk.css.map": "/static/css/main.28a23b33.chunk.css.map",
+    "static/css/main.f93fe038.chunk.css.map": "/static/css/main.f93fe038.chunk.css.map",
     "static/js/2.ee99c39e.chunk.js.LICENSE.txt": "/static/js/2.ee99c39e.chunk.js.LICENSE.txt",
     "static/media/GameComp.css": "/static/media/bgImg.b7a161d3.png",
     "static/media/bgSound.mp3": "/static/media/bgSound.4af35b95.mp3",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.324f0ac0.js",
     "static/js/2.ee99c39e.chunk.js",
-    "static/css/main.28a23b33.chunk.css",
-    "static/js/main.9fdab0eb.chunk.js"
+    "static/css/main.f93fe038.chunk.css",
+    "static/js/main.e494a37b.chunk.js"
   ]
 }
