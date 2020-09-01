@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71f37e165499714f36faebc7dba6446a",
+    "revision": "91ab84fdd47e0224f929cd6eb1a9fba0",
     "url": "/index.html"
   },
   {
-    "revision": "3474707761f9baf39187",
+    "revision": "30061667c9998078eb07",
     "url": "/static/css/main.7d0c20c0.chunk.css"
   },
   {
-    "revision": "3218d28ed1899f2d0c89",
-    "url": "/static/js/2.fe5ffee3.chunk.js"
+    "revision": "3a6a577fd67f4faf89f4",
+    "url": "/static/js/2.7393ebf2.chunk.js"
   },
   {
     "revision": "87e66636af0fbbcc71730c8c1299c45c",
-    "url": "/static/js/2.fe5ffee3.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.7393ebf2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3474707761f9baf39187",
-    "url": "/static/js/main.ad01bdd2.chunk.js"
+    "revision": "30061667c9998078eb07",
+    "url": "/static/js/main.3acf37cb.chunk.js"
   },
   {
     "revision": "fcb9ab19e74c9fc4d2ff",
@@ -46,6 +46,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fbba2278b9179b7b165ee4a6d8e164b9",
     "url": "/static/media/bullDogImg.fbba2278.png"
+  },
+  {
+    "revision": "a88a40ec91552f09e8d9c72a70a695ff",
+    "url": "/static/media/emoji_developer.a88a40ec.png"
+  },
+  {
+    "revision": "7d6e941c8c87511bb104d3bffed47357",
+    "url": "/static/media/emoji_hello.7d6e941c.png"
   },
   {
     "revision": "853245ad915df0d654a8c85442e70a21",

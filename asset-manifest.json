@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.7d0c20c0.chunk.css",
-    "main.js": "/static/js/main.ad01bdd2.chunk.js",
-    "main.js.map": "/static/js/main.ad01bdd2.chunk.js.map",
+    "main.js": "/static/js/main.3acf37cb.chunk.js",
+    "main.js.map": "/static/js/main.3acf37cb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.324f0ac0.js",
     "runtime-main.js.map": "/static/js/runtime-main.324f0ac0.js.map",
-    "static/js/2.fe5ffee3.chunk.js": "/static/js/2.fe5ffee3.chunk.js",
-    "static/js/2.fe5ffee3.chunk.js.map": "/static/js/2.fe5ffee3.chunk.js.map",
+    "static/js/2.7393ebf2.chunk.js": "/static/js/2.7393ebf2.chunk.js",
+    "static/js/2.7393ebf2.chunk.js.map": "/static/js/2.7393ebf2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a18471daa75fdad612290e7859c0614c.js": "/precache-manifest.a18471daa75fdad612290e7859c0614c.js",
+    "precache-manifest.5ff51f7cc98f68d3606756f7f58b31a7.js": "/precache-manifest.5ff51f7cc98f68d3606756f7f58b31a7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.7d0c20c0.chunk.css.map": "/static/css/main.7d0c20c0.chunk.css.map",
-    "static/js/2.fe5ffee3.chunk.js.LICENSE.txt": "/static/js/2.fe5ffee3.chunk.js.LICENSE.txt",
+    "static/js/2.7393ebf2.chunk.js.LICENSE.txt": "/static/js/2.7393ebf2.chunk.js.LICENSE.txt",
     "static/media/GameComp.css": "/static/media/bgImg.b7a161d3.png",
     "static/media/bgSound.mp3": "/static/media/bgSound.4af35b95.mp3",
     "static/media/blueCap.png": "/static/media/blueCap.da04d528.png",
     "static/media/blueShorts.png": "/static/media/blueShorts.299bcd43.png",
     "static/media/blueTShirt.png": "/static/media/blueTShirt.9e020b50.png",
     "static/media/bullDogImg.png": "/static/media/bullDogImg.fbba2278.png",
+    "static/media/emoji_developer.png": "/static/media/emoji_developer.a88a40ec.png",
+    "static/media/emoji_hello.png": "/static/media/emoji_hello.7d6e941c.png",
     "static/media/failSound.mp3": "/static/media/failSound.853245ad.mp3",
     "static/media/ResumeComp.css": "/static/media/youTube.1d54e5c2.png",
     "static/media/homepageBgMusic.mp3": "/static/media/homepageBgMusic.e175412e.mp3",
@@ -36,8 +38,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.324f0ac0.js",
-    "static/js/2.fe5ffee3.chunk.js",
+    "static/js/2.7393ebf2.chunk.js",
     "static/css/main.7d0c20c0.chunk.css",
-    "static/js/main.ad01bdd2.chunk.js"
+    "static/js/main.3acf37cb.chunk.js"
   ]
 }
